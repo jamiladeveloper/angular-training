@@ -1,0 +1,10 @@
+Requirements
+1. User able to login
+2. User is able to see previous orders
+3. User is able to create a new order
+4. User is able to see his order and edit it
+
+
+Screens
+1. Login Screen
+2. Dashboard to check previous orders and create/edit order
